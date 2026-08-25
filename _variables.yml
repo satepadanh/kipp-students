@@ -1,9 +1,9 @@
 student:
-  name: "Nama Mahasiswa"
-  id: "NIM"
-  program: "Program Studi"
-  cohort: "Angkatan"
-  email: "nama@kampus.ac.id"
+  name: "Azka Fathiyya Haryadi"
+  id: "18225041"
+  program: "STEI-K Sistem & Teknologi Informasi"
+  cohort: "2025"
+  email: "18225041@stei.itb.ac.id"
 
 course:
   code: "KIPP-2"
@@ -12,5 +12,5 @@ course:
   semester: "Semester / Tahun Akademik"
 
 repository:
-  url: "https://github.com/USERNAME/NAMA-REPOSITORY"
+  url: "https://github.com/satepadanh/kipp-students"
 
