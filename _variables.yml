@@ -3,7 +3,7 @@ student:
   id: "18225041"
   program: "STEI-K Sistem & Teknologi Informasi"
   cohort: "2025"
-  email: "18225041@stei.itb.ac.id"
+  email: "18225041@std.stei.itb.ac.id"
 
 course:
   code: "KIPP-2"
