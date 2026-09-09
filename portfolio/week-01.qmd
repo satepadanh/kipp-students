@@ -1,7 +1,7 @@
 ---
 title: "Character Map"
 week: 1
-status: "Belum dimulai"
+status: "Siap dinilai"
 self_score: "—"
 assessor_score: "—"
 description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
@@ -23,3 +23,46 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 :::
 
 {{< include ../includes/evidence-template.md >}}
+
+## Lima character
+
+| Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
+|---|---|---|---|---|
+| Intra-Self — Reflective learner | Diri sendiri ketika dihadapkan dengan masalah rumit | Mencari solusi tanpa merasa terbebani | Memecah masalah menjadi bagian-bagian kecil dan bertanya kepada diri sendiri seperti "apa inti masalahnya?" atau "hal kecil apa yang bisa aku lakukan sekarang?" | overwhelmed dan self-blame; menenangkan diri dan mencoba memecahkan masalah dengan tenang |
+| Family — kakak tertua | Adik-adik kecil yang masih dalam masa pertumbuhan | Mengarahkan mereka dan memberikan contoh perilaku yang baik tanpa terkesan terlalu mengontrol | Memberi contoh, saran, serta feedback dengan tidak menggurui | Terlalu tegas dan terkesan menggurui; mencoba membayangkan diri di posisi mereka sebelum menyampaikan sesuatu |
+| Friends — teman dekat | Teman dekat yang sering meminta saran | Membantu teman menghadapi masalah dan memberi saran yang baik | Mendengarkan dan merespons dengan aktif, membagikan perspektif pribadi akan masalah yang dihadapi | memberi solusi berdasarkan pengalaman pribadi yang mungkin kurang relevan dengan apa yang dialami teman; mencoba memberi solusi alternatif seperti "kalo ngga mau A, ya B aja" |
+| Work — anggota kelompok | Dua rekan tugas kuliah yang tidak merespons group chat | Menyelesaikan tugas bersama dengan tepat waktu dan efektif | terus check-in, "bagian ini udah selesai. Kalian gimana?" | terlalu sering check-in sehingga terkesan memerintah; pelan-pelan mengarahkan dan menggunakan pertanyaan terbuka |
+| Neighbors — tetangga | Tetangga sebelah rumah yang memiliki hewan peliharaan yang sering mengganggu | Menyampaikan gangguan dan tetap menjaga hubungan bertetangga | Bernegoisasi dan langsung menyampaikan masalah dengan jelas tanpa menyerang secara pribadi | Tetangga tidak menerima komplain dengan baik; menjelaskan dengan baik, sopan, dan perlahan |
+
+
+## Episode yang dianalisis
+
+**Konteks:** Teman dekat sedang mengahadapi suatu masalah pribadi yang berkaitan dengan keluarga dan keyakinannya. Karena masalah tersebut termasuk masalah yang lumayan sensitif, saya berusaha memahami situasi sebelum memberi saran. 
+
+**Objective:** Memberi saran berdasarkan pengetahuan dan pengalaman yang dimiliki sehingga saran tersebut dapat digunakan untuk menyelesaikan masalah atau sekadar sebagai penenang. Saran tidak memaksakan keputusan tertentu bagi teman.
+
+> **Teman:** "Aku ngga tau seberapa relijius lagi agar bisa mencapai ketenangan batin. Seberapa kerasnya aku coba, keluargaku selalu menganggapnya kurang. Aku ngga akan bisa sempurna."
+> **Saya:** "Jawaban sebenarnya sih ada di rasa ikhlas, itu yang pernah aku dengar dari suatu kajian. Lagipula, manusia ngga ada yang sempurna. Yang berhak menghakimi hubungan antara kamu dan tuhan ya hanya tuhanmu sendiri, bukan? Maka dari itu, aku rasa kamu ngga perlu terlalu memikirkan apa yang orang lain pikirkan, atau terima sebagai bagian untuk mengembangkan diri."
+
+Saya mendengarkan, memberikan perspektif, serta saran. Karena saya berperan sebagai teman dekat, saya menggunakan bahasa informal. Teman menerima saran yang diberikan. Meskipun begitu, saya belum terlebih dahulu bertanya apakah teman benar-benar membutuhkan suatu saran atau hanya perlu didengar saja.
+
+## Perubahan language
+
+Sebagai seorang **teman dekat**, bahasa yang digunakan cenderung lebih informal dan santai, namun tetap memiliki konteks empati dan memvalidasi, seperti, "kalo misal mau jawaban benerannya sih..." dan "tapi ya kalo buat gua sendiri...". 
+Sementara itu, sebagai **anggota kelompok**, pembahasan lebih profesional, namun masih memakai bahasa yang santai untuk memecahkan suasana, seperti "Kita mau ngumpul kapan ya guys?", "kalau jam segini bisa ngga yaa? atau ada yang berhalangan?", atau "Kalo A ngga bisa jam segini, mau diundur, dipercepat, atau online aja diskusinya?"
+
+## Evidence, AI, dan feedback
+- Evidence: chat antara saya dan teman saya di telegram pada 21 Agustus 2026 pukul 21:48—23:43. Evidence tidak dapat ditunjukkan secara eksplisit karena merupakan percakapan pribadi.
+- 'Tidak menggunakan AI'
+
+## Self-assessment
+
+| Dimensi | Skor | Alasan |
+|---|---:|---|
+| Person & Character | 3 | Person, context, relationship, dan character dipetakan, tetapi mungkin belum maksimal ataupun akurat |
+| Objective & state | 3 | Objective pribadi dalam percakapan cukup jelas |
+| Repertoire, Language & AI | 4 | Repertoire mendengarkan, memberi perspektif, dan saran; Language berubah sesuai character; AI tidak digunakan |
+| Response & Adaptation | 3 | Pada bagian episode, cenderung merespons dengan asumsi teman membutuhkan saran. Perlu ditingkatkan |
+| Agreement, Action, & Relationship | 3 | Percakapan berlangsung dengan baik. Tapi kurang dipastikan apakah berdampak kedepannya |
+
+**Total: 16/20 — kompeten** Masih terdapat kekurangan yang bisa ditingkatkan.
