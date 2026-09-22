@@ -6,6 +6,7 @@ pencapaian mata kuliah **Komunikasi Inter Personal dan Publik**.
 ## Isi repository
 
 - `course/`: pengantar, hasil belajar, slide, quiz, dan arahan evidence untuk 15 minggu.
+- `buku/`: bahan ajar dan reading suplements
 - `slides/`: 15 deck RevealJS yang dapat dirender bersama situs.
 - `portfolio/`: satu halaman evidence yang dapat diedit untuk setiap minggu.
 - `examples/`: contoh portfolio fiktif yang telah terisi untuk 15 minggu.
