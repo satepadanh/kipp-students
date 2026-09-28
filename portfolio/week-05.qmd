@@ -38,7 +38,7 @@ Pertanyaan utama:
 
 ## Potongan transcript
 
-> **Saya:** “Biasanya yang paling bikin ribet pas kerja kelompok itu bagian apa?”  
+> **Saya:** “Biasanya yang paling bikin ribet pas kerja kelompok itu bagian apa?”
 > **Teman:** “Kadang tuh bukan orangnya nggak kerja, tapi gue tuh kaya, ngga tahu mereka udah ngerjain sampai mana. Update-nya nyampur sama chat lain gitu.”  
 > **Saya:** “Jadi masalahnya lebih ke progresnya susah kelihatan, bukan karena mereka nggak ngerjain?”  
 > **Teman:** “Iya. Kadang ternyata udah dikerjain, cuma nggak ada info samsek. Terus ada juga yang ngira bagian tertentu belum ada, jadi malah dikerjain dua orang.”  
@@ -47,7 +47,7 @@ Pertanyaan utama:
 > **Saya:** “Kalo gitu, misal kondisinya lebih ideal, apa yang menurut lu paling penting berubah?”
 > **Teman:** "Pengennya sih biar tau siapa ngerjain apa dan udah sampe mana tanpa harus scroll chat ke atas. Terus kalo bisa ga usah pake sesuatu yang ribet, kaya aplikasi baru atau apalah"
 
-## Pembaruan pembacaan
+## Pembaruan pembacaan 
 
 Asumsi awal saya bahwa masalah utama adalah anggota kelompok yang kurang aktif ternyata tidak sepenuhnya tepat. Dari percakapan, saya menemukan bahwa sebagian masalah justru berasal dari ketidakjelasan informasi mengenai pembagian tugas dan progres pekerjaan.
 
