@@ -1,8 +1,8 @@
 ---
 title: "Professional Discovery Interview"
 week: 5
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "15/20"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement."
 categories: [Professional, Discovery]
@@ -23,3 +23,59 @@ Mendengar sebelum proposing dan membangun shared problem statement dengan person
 :::
 
 {{< include ../includes/evidence-template.md >}}
+
+## Initial assumption dan rencana discovery
+
+Saya awalnya berasumsi bahwa masalah utama teman saya dalam tugas kelompok adalah anggota kelompok yang kurang aktif sehingga diperlukan sistem pembagian tugas yang lebih teratur.
+Untuk menguji asumsi tersebut, saya melakukan percakapan dengan seorang teman mahasiswa yang cukup sering mengerjakan tugas kelompok.
+Pertanyaan utama:
+
+1. Apa yang biasanya terjadi ketika kelompokmu mengerjakan tugas bersama?
+2. Bagian mana yang paling sering membuat pengerjaan terhambat?
+3. Siapa saja yang paling terdampak ketika hal tersebut terjadi?
+4. Kalau prosesnya berjalan lebih baik, kondisi seperti apa yang kamu harapkan?
+5. Apa kendala yang membuat kondisi tersebut sulit tercapai?
+
+## Potongan transcript
+
+> **Saya:** “Biasanya yang paling bikin ribet pas kerja kelompok itu bagian apa?”  
+> **Teman:** “Kadang tuh bukan orangnya nggak kerja, tapi gue tuh kaya, ngga tahu mereka udah ngerjain sampai mana. Update-nya nyampur sama chat lain gitu.”  
+> **Saya:** “Jadi masalahnya lebih ke progresnya susah kelihatan, bukan karena mereka nggak ngerjain?”  
+> **Teman:** “Iya. Kadang ternyata udah dikerjain, cuma nggak ada info samsek. Terus ada juga yang ngira bagian tertentu belum ada, jadi malah dikerjain dua orang.”  
+> **Saya:** “Kalau kejadian kaya gitu emang kenapa?”  
+> **Teman:** “Buang waktu jujur. Kadang juga baru nyadar ada bagian yang belum dikerjain pas udah deket deadline”  
+> **Saya:** “Kalo gitu, misal kondisinya lebih ideal, apa yang menurut lu paling penting berubah?”
+> **Teman:** "Pengennya sih biar tau siapa ngerjain apa dan udah sampe mana tanpa harus scroll chat ke atas. Terus kalo bisa ga usah pake sesuatu yang ribet, kaya aplikasi baru atau apalah"
+
+## Pembaruan pembacaan
+
+Asumsi awal saya bahwa masalah utama adalah anggota kelompok yang kurang aktif ternyata tidak sepenuhnya tepat. Dari percakapan, saya menemukan bahwa sebagian masalah justru berasal dari ketidakjelasan informasi mengenai pembagian tugas dan progres pekerjaan.
+
+Masalah tersebut menyebabkan pekerjaan ganda, bagian tugas terlewat, serta pengecekan progres baru dilakukan ketika deadline sudah dekat.
+
+Constraint yang muncul adalah kelompok tidak menginginkan proses tambahan yang rumit atau memerlukan anggota mempelajari sistem baru hanya untuk melakukan koordinasi sederhana.
+
+**Shared problem statement yang dikonfirmasi:**
+
+> “Mahasiswa yang bekerja dalam kelompok kesulitan mengetahui pembagian tugas dan progres setiap anggota karena informasi tersebar di antara banyak percakapan, sehingga pekerjaan dapat terduplikasi atau terlambat diketahui belum selesai. Mereka membutuhkan cara yang sederhana untuk mengetahui tanggung jawab dan progres kelompok tanpa menambah proses yang rumit.”
+
+Teman saya menyetujui rumusan tersebut.
+
+## Evidence, feedback, dan next step
+
+- Tidak ada evidence konkret yang menyatakan isi percakapan karena percakapan dilakukan lewat google meet yang tidak direkam. Hanya ada chat ajakan call tanpa konteks.
+- Next practice: mencari pengalaman dari mahasiswa lain yang memiliki situasi serupa sebelum menyimpulkan bahwa masalah tersebut umum terjadi.
+
+AI dipakai untuk parafrase cerita awal yang saya berikan.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Pengalaman dan kebutuhan narasumber digali dari sudut pandangnya |
+| Objective & State | 3 | Asumsi awal berubah setelah mendapat evidence baru |
+| Repertoire, Language & AI | 3 | Menggunakan pertanyaan terbuka, dampak, paraphrase, dan clarification; batas AI jelas |
+| Response & Adaptation | 3 | Fokus berubah dari “anggota tidak aktif” menjadi masalah visibilitas progres |
+| Agreement, Action & Relationship | 3 | Shared problem statement dikonfirmasi dan next step ditentukan |
+
+**Total: 15/20 — Kompeten.**

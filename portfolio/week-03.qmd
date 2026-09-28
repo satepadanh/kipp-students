@@ -1,8 +1,8 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "14/20"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
@@ -23,3 +23,50 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 :::
 
 {{< include ../includes/evidence-template.md >}}
+
+## Konteks dan relationship state
+
+Saya melakukan percakapan dengan teman dekat saya tentang kendala tugas kelompok magangnya di kantor. Teman saya merasa kesulitan dan kewalahan oleh tugas kelompok karena anggota kelompoknya hampir tidak pernah kerja. Sekalipun kerja, sangat mepet deadline dan kualitas pengerjaan sangat kurang, sehingga teman saya sering terkena tegur mentor. 
+
+Saya memberi saran seperti "Omelin aja deh". Tapi teman saya menolak karena dia orang yang 'ga enakan'.
+
+**State sebelum percakapan:** Hubungan saya dengan teman saya tetap dekat dan saling percaya, tetapi teman saya sedang cukup tertekan oleh tugas tersebut. Saya menilai ketegangan saat percakapan sekitar 6/10. Objective saya adalah memahami kondisi, perasaan, dan kebutuhan teman saya lebih dalam pada saat itu dan merespons sesuai situasi.
+
+## Potongan transcript
+
+> **Teman:** “Genuinely kecewa banget sama dia deh. Ini bentar lagi gue crash out. Gimana caranya biar dia paham kalo kita punya time limit coba?”  
+> **Saya:** “Omelin aja ih kaya, "kamu mau sampe kapan kaya gini?" gitu.”  
+> **Teman:** “Ih iya tapi dia tuh yang kalo digituin marah-marah gitu loh. Jadi makin ribet gue”  
+> **Saya:** “Kalo gitu tanyanya kaya, "Emang kenapa kamu ngga ngerjain? Lagi ada urusan penting kah?" gitu gimana?”  
+> **Teman:** “Setau gue mah dia lagi pergi ke Bandung buat perwalian. Makannya hari ini ga ke kantor.”  
+> **Saya:** “Schedule online meeting kaya gini aja ngga sih. Ngerjain bareng pas online gitu, biar bisa diawasin.”
+
+## Analisis listening, boundary, request, dan repair
+
+Dalam percakapan ini, saya menyadari bahwa saya masih terlalu cepat masuk ke mode memberi solusi. Ketika teman saya menyampaikan rasa kecewa dan kewalahan, saya langsung menyarankan untuk menegur anggota kelompoknya. Setelah teman saya menjelaskan bahwa cara tersebut berpotensi memicu konflik, saya mencoba menyesuaikan respons dengan menawarkan alternatif lain.
+
+Dari sisi listening, saya sudah mengikuti informasi baru yang diberikan teman, tetapi belum cukup menggali makna, perasaan, dan kebutuhan di balik ceritanya. Saya belum melakukan paraphrase, validasi emosi secara tentatif, maupun menanyakan jenis bantuan yang sebenarnya ia inginkan.
+
+Boundary yang muncul dalam situasi ini adalah teman saya tidak harus terus menanggung akibat dari pekerjaan anggota kelompok lain hanya karena merasa tidak enakan. Ia tetap dapat menyampaikan kebutuhan dan batas secara jelas, misalnya meminta bagian tugas diselesaikan lebih awal atau meminta kabar jika ada kendala.
+
+Repair yang perlu saya lakukan adalah memperbaiki kebiasaan terlalu cepat memberi solusi. Jika menghadapi situasi serupa lagi, saya akan lebih dahulu memahami pengalaman teman dengan paraphrase dan pertanyaan terbuka, lalu menanyakan apakah ia ingin didengarkan, dibantu memikirkan pilihan, atau diberi saran.
+
+## Relationship outcome dan evidence
+
+- Teman saya menyampaikan rasa kecewa
+- Saya mengubah respons setelah menerima informasi baru
+- Saya masih perlu meningkatkan paraphrase, validasi, dan pengecekan kebutuhan sebelum memberikan saran
+
+AI digunakan untuk mencari kata-kata yang tepat untuk menulis portofolio ini.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Saya mempertimbangkan karakter teman yang 'tidak enakan' dalam menyesuaikan respons |
+| Objective & State | 4 | Kondisi hubungan dan tingkat ketegangan awal dapat dijelaskan dengan jelas |
+| Repertoire, Language & AI | 2 | Saya menggunakan beberapa respons dan alternatif, tetapi belum melakukan paraphrase atau validasi |
+| Response & Adaptation | 3 | Saya menyesuaikan respons setelah solusi pertama dianggap kurang cocok |
+| Agreement, Action & Relationship | 2 | Ada beberapa pilihan tindakan, tetapi belum ada kesepakatan atau langkah konkret |
+
+**Total: 14/20 — Kompeten.**

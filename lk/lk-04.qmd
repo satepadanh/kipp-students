@@ -18,10 +18,10 @@ Dalam tugas ini, Anda ditantang untuk melatih **kelenturan register dan alih rag
 ---
 
 ## **B. Identitas Mahasiswa**
-*   **Nama Lengkap:** ______________________________________
-*   **NIM:** ______________________________________
-*   **Program Studi:** ______________________________________
-*   **Tanggal Pengisian:** ______________________________________
+*   **Nama Lengkap:** Azka Fathiyya Haryadi
+*   **NIM:** 18225041
+*   **Program Studi:** Sistem dan Teknologi Informasi
+*   **Tanggal Pengisian:** 25 September 2026
 
 ---
 
@@ -30,21 +30,22 @@ Sebelum membagikan gagasan Anda, Anda harus mengupas kulit jargon untuk menemuka
 
 1. **Konsep Teknis yang Dipilih:**
    *(Contoh: Enkripsi Kunci Publik, Inflasi Moneter, Replikasi Database, Fotosintesis, dll.)*
-   *Jawab:*
+   *Jawab:* Dampak Artificial Intelligence (AI)
    
 2. **Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah):**
    *(Tuliskan definisi asli lengkap dengan jargon teknisnya)*
-   *Jawab:*
+   *Jawab:* Artificial Intelligence adalah teknologi yang memungkinkan sistem komputer melakukan tugas seperti memproses informasi, mengenali pola, membuat prediksi, dan menghasilkan respons berdasarkan data. Penggunaan AI dapat meningkatkan efisiensi dan otomatisasi, tetapi juga memiliki risiko seperti kesalahan informasi, bias, masalah privasi, dan ketergantungan pengguna.
    
 3. **Daftar Jargon Teknis & Artian Sederhananya:**
    *Identifikasi minimal 3 istilah rumit dari definisi di atas dan terjemahkan maknanya secara mandiri.*
-   *   **Jargon 1:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 2:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
-   *   **Jargon 3:** `_______________` $\rightarrow$ Arti Sederhana: ____________________
+   *   **Jargon 1:** `Automation` $\rightarrow$ Arti Sederhana: proses ketika pekerjaan tertentu dilakukan secara otomatis oleh sistem.
+   *   **Jargon 2:** `Bias` $\rightarrow$ Arti Sederhana: kecenderungan hasil AI menjadi tidak seimbang atau tidak adil karena data atau proses yang digunakan.
+   *   **Jargon 3:** `Hallucination` $\rightarrow$ Arti Sederhana: kondisi ketika AI memberikan informasi yang terdengar meyakinkan tetapi sebenarnya salah atau tidak memiliki dasar yang benar.
+   *   **Jargon 4:** `Human oversight` $\rightarrow$ Arti Sederhana: keterlibatan manusia untuk memeriksa, mengawasi, dan menilai hasil dari sistem AI.
 
 4. **Kebenaran Inti (*Marrow of the Message*):**
    *(Tuliskan 1 kalimat sangat sederhana yang merangkum apa sebenarnya esensi atau manfaat utama dari konsep ini bagi kehidupan manusia)*
-   *Jawab:*
+   *Jawab:* AI dapat membantu manusia bekerja dan mendapatkan informasi dengan lebih cepat, tetapi hasilnya tidak selalu benar dan penggunaannya tetap membutuhkan pertimbangan manusia.
    
 ---
 
@@ -54,31 +55,31 @@ Sekarang, bawa kebenaran inti di atas menggunakan "kendaraan" bahasa yang sesuai
 ### **1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)**
 *   **Karakteristik Pendengar:** Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.
 *   **Strategi:** Gunakan **analogi fisik atau cerita** yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).
-*   *Draf Terjemahan Anda:*
+*   *Draf Terjemahan Anda:* “AI itu kaya pembantu pintar di komputer. Dia bisa bantu jawab pertanyaan kamu dengan cepat. Tapi kadang jawabannya bisa salah, jadi tetap harus tanya orang dewasa atau cek lagi.”
    
    
 ### **2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)**
 *   **Karakteristik Pendengar:** Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.
 *   **Strategi:** Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.
-*   *Draf Terjemahan Anda:*
+*   *Draf Terjemahan Anda:* “AI tuh ngebantu banget buat banyak hal, especially kalo buat nugas. Tapi kalau terlalu ngandelin juga bahaya, soalnya AI bisa salah dan kita jadi males ngecek sendiri.”
    
    
 ### **3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)**
 *   **Karakteristik Pendengar:** Rekan sejawat yang menuntut efisiensi, akurasi tinggi, serta pembuktian logis atau matematis.
 *   **Strategi:** Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.
-*   *Draf Terjemahan Anda:*
+*   *Draf Terjemahan Anda:* “AI dapat meningkatkan productivity melalui automation dan decision support, tetapi ada trade-off seperti hallucination, bias dari training data, privacy risk, dan potensi overreliance. Karena itu output tetap perlu validation dan human oversight.”
    
    
 ### **4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)**
 *   **Karakteristik Pendengar:** Berorientasi pada hasil, efisiensi alokasi sumber daya (waktu, tenaga, biaya), manajemen risiko, dan dampak terhadap tujuan organisasi.
 *   **Strategi:** Tekankan **nilai tambah (*value proposition*)**, biaya (*cost*), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.
-*   *Draf Terjemahan Anda:*
+*   *Draf Terjemahan Anda:* “AI dapat meningkatkan efisiensi dengan membantu otomatisasi pekerjaan, mempercepat analisis data, dan mengurangi beban tugas rutin. Namun, implementasinya perlu mempertimbangkan biaya, kualitas data, risiko kesalahan, privasi, serta kebutuhan pengawasan manusia agar manfaat yang diperoleh tidak menimbulkan risiko baru.”
    
    
 ### **5. Ragam Bahasa: Publik Umum (Masyarakat Luas)**
 *   **Karakteristik Pendengar:** Masyarakat heterogen yang ingin mengetahui apa dampak langsung atau tidak langsung dari teknologi/konsep ini bagi keselamatan, kemaslahatan, dompet, atau kehidupan sehari-hari mereka.
 *   **Strategi:** Hubungkan konsep dengan nilai-nilai sosial, keadilan, keamanan, kemudahan hidup, dan gunakan bahasa yang inklusif serta mudah dipahami seketika.
-*   *Draf Terjemahan Anda:*
+*   *Draf Terjemahan Anda:* “AI dapat memberi manfaat besar dalam pendidikan, pekerjaan, layanan publik, dan kehidupan sehari-hari. Namun, pengguna tetap perlu menyadari bahwa AI dapat menghasilkan informasi yang salah atau bias dan dapat memengaruhi privasi serta dunia kerja. Karena itu, penggunaan AI perlu disertai literasi dan pengawasan manusia.”
    
    
 
@@ -88,14 +89,16 @@ Sekarang, bawa kebenaran inti di atas menggunakan "kendaraan" bahasa yang sesuai
 *Evaluasi diri Anda setelah melakukan proses alih ragam bahasa di atas.*
 
 1. **Ragam bahasa mana yang paling sulit Anda buat? Mengapa?**
-   *Jawab:*
+   *Jawab:* Ragam bahasa anak-anak. Karena harus memikirkan analogi yang tepat terlebih dahulu agar mereka mudah mengerti. Lalu pemilihan kata yang mudah dimengerti anak-anak juga lumayan sulit.
    
 2. **Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?**
-   *Jawab:*
+   *Jawab:* Proses ini membuat saya menyadari bahwa istilah seperti automation, bias, hallucination, dan human oversight mungkin terasa biasa bagi orang yang sering membahas teknologi, tetapi belum tentu dipahami oleh orang lain.
    
 3. **Catatan Penggunaan AI Kopilot (Jika Ada):**
    *Jika Anda menggunakan AI untuk menguji kelenturan bahasa Anda (misal: meminta AI berperan sebagai anak berusia 10 tahun untuk mengkritik draf Anda), tuliskan instruksi/prompt yang Anda gunakan dan umpan balik berharga apa yang diberikan AI.*
-   *Jawab:*
+   *Jawab:* Saya menggunakan AI untuk membantu mengecek apakah lima versi penjelasan tetap membawa pesan utama yang sama dan apakah ada versi yang terlalu teknis atau terlalu menyederhanakan dampak AI.
+   Contoh prompt: "Tolong periksa bagian lima bahasa. Pastikan semua bagian konsisten."
+   Umpan balik: perlu menjaga agar versi sederhana tidak membuat AI terlihat seperti manusia yang benar-benar memahami atau berpikir sendiri.
    
 
 ---
@@ -105,11 +108,11 @@ Gunakan rubrik ini untuk menguji kualitas draf Anda sebelum dimasukkan ke dalam 
 
 | Kriteria | Skor 4 (Sangat Baik) | Skor 3 (Baik) | Skor 2 (Cukup) | Skor 1 (Kurang) | Skor Mandiri |
 | :--- | :--- | :--- | :--- | :--- | :---: |
-| **Keutuhan Makna** *(Fidelity)* | Makna inti konsep sama sekali tidak terdistorsi atau berganti di kelima versi bahasa. | Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak. | Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa. | Makna inti rusak atau berubah total di berbagai ragam bahasa. | |
-| **Kelenturan Register** *(Code-switching)* | Perbedaan gaya bahasa di antara kelima audiens sangat kontras, konsisten, dan sangat sesuai dengan profil masing-masing. | Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens. | Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan). | Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama. | |
-| **Kualitas Analogi & Penjelasan** | Analogi yang digunakan sangat kreatif, segar, akurat, dan langsung membuat konsep mudah dipahami seketika. | Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya. | Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens. | Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik). | |
-| **Kedalaman Refleksi** | Refleksi sangat jujur, mendalam, mampu mengidentifikasi bias batin diri, dan merumuskan sasaran pertumbuhan yang jelas. | Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut. | Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda. | Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat). | |
-| **Total Skor (Maksimal 16)** | | | | | **___ / 16** |
+| **Keutuhan Makna** *(Fidelity)* | 4 | Semua versi tetap menyampaikan manfaat, risiko, dan pentingnya pertimbangan manusia |
+| **Kelenturan Register** *(Code-switching)* | 4 | Gaya bahasa dan tingkat detail berbeda jelas untuk masing-masing audiens |
+| **Kualitas Analogi & Penjelasan** | 3| Penjelasan anak-anak cukup sederhana, tetapi analoginya masih memiliki batas |
+| **Kedalaman Refleksi** | 3 | Refleksi menunjukkan kesulitan dalam menyederhanakan konsep tanpa mengubah makna |
+| **Total Skor (Maksimal 16)** | | | | | **14 / 16** |
 
 ---
 
