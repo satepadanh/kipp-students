@@ -3,6 +3,9 @@ title: "Minggu 8 — UTS Performance Lab"
 description: "Integrated performance dari person recognition hingga Interest."
 ---
 
+
+
+
 ::: {.week-path}
 ::: {}
 UTS bukan ujian hafalan atau public speaking. Performance menguji kemampuan membaca person, mengenali state, menggunakan response sebagai evidence, dan beradaptasi selama interaction.
