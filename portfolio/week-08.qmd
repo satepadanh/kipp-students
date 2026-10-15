@@ -28,9 +28,33 @@ Baca [instruksi UTS](../lk/lk-UTS/index.qmd), jalankan ZIP sesuai NIM, lalu isi 
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
+<<<<<<< HEAD
 | Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Siap dinilai | Makalah kajian MBTI, komunikasi efektif, SWOT-like, dan PASK telah disusun. |
 | 1 | [hasil_1_18225041.qmd](UTS/hasil_1.qmd) | Diri; Azka/Budi | Siap dinilai | Laporan lengkap simulasi diri dan tokoh pembanding, termasuk evaluasi dan refleksi. |
 | 2a | [hasil_2a_18225041.qmd](UTS/hasil_2a.qmd) | Azka/Dimas | Siap dinilai | Laporan lengkap simulasi dengan Dimas, termasuk uji ulang dan refleksi. |
 | 2b | [hasil_2b_18225041.qmd](UTS/hasil_2b.qmd) | Azka/Cyntia | Siap dinilai | Laporan lengkap simulasi dengan Cyntia, termasuk uji ulang dan refleksi. |
 | 3a | [hasil_3a_18225041.qmd](UTS/hasil_3a.qmd) | Azka/Fajar | Siap dinilai | Laporan lengkap simulasi dengan Fajar, termasuk evaluasi ASK, SWOT, dan refleksi. |
 | 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | Azka/Budi | Belum dimulai | Laporan lengkap simulasi dengan Budi, termasuk evaluasi ASK, SWOT, dan refleksi. |
+=======
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Belum dimulai | [Isi] |
+| 1 | [hasil_1.qmd](UTS/hasil_1.qmd) | Diri; [nama/ID pembanding] | Belum dimulai | [Isi] |
+| 2a | [hasil_2a.qmd](UTS/hasil_2a.qmd) | [Nama/ID target pertama kasus 2] | Belum dimulai | [Isi] |
+| 2b | [hasil_2b.qmd](UTS/hasil_2b.qmd) | [Nama/ID target kedua; berbeda dari 2a] | Belum dimulai | [Isi] |
+| 3a | [hasil_3a.qmd](UTS/hasil_3a.qmd) | [Nama/ID target pertama kasus 3] | Belum dimulai | [Isi] |
+| 3b | [hasil_3b.qmd](UTS/hasil_3b.qmd) | [Nama/ID target kedua; berbeda dari 3a] | Belum dimulai | [Isi] |
+
+{{< include "../includes/uts-penilaian.md" >}}
+
+## Rekap nilai komponen
+
+| Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
+|---|---:|---|---|---|---|
+| Makalah | 10% | — | — | — | Belum dinilai |
+| Sesi 1 | 18% | — | — | — | Belum dinilai |
+| Sesi 2a | 18% | — | — | — | Belum dinilai |
+| Sesi 2b | 18% | — | — | — | Belum dinilai |
+| Sesi 3a | 18% | — | — | — | Belum dinilai |
+| Sesi 3b | 18% | — | — | — | Belum dinilai |
+
+**Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.
+>>>>>>> ad92c64e9e4469adaa59ecc064a3fddd8e310761

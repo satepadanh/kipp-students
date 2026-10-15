@@ -163,9 +163,15 @@ PASK membantu membedakan persepsi, sikap, keterampilan, dan pengetahuan yang mem
 
 ## Daftar Pustaka {.unnumbered}
 
+<<<<<<< HEAD
 Gross, J. J. (1998). Antecedent- and response-focused emotion regulation: Divergent consequences for experience, expression, and physiology. *Journal of Personality and Social Psychology, 74*(1), 224–237. https://doi.org/10.1037/0022-3514.74.1.224
 
 McCrae, R. R., & Costa, P. T., Jr. (1989). Reinterpreting the Myers-Briggs Type Indicator from the perspective of the five-factor model of personality. *Journal of Personality, 57*(1), 17–40. https://doi.org/10.1111/j.1467-6494.1989.tb00759.x
 
 The Myers & Briggs Foundation. (t.t.). *Myers-Briggs overview*. https://www.myersbriggs.org/my-mbti-personality-type/myers-briggs-overview/
 
+=======
+[Cantumkan hanya sumber yang benar-benar dibaca/digunakan. Gunakan format konsisten dan tautan/DOI yang tepat; pastikan setiap sitasi memiliki entri.]
+
+{{< include "../../includes/uts-penilaian.md" >}}
+>>>>>>> ad92c64e9e4469adaa59ecc064a3fddd8e310761
