@@ -170,8 +170,3 @@ McCrae, R. R., & Costa, P. T., Jr. (1989). Reinterpreting the Myers-Briggs Type 
 
 The Myers & Briggs Foundation. (t.t.). *Myers-Briggs overview*. https://www.myersbriggs.org/my-mbti-personality-type/myers-briggs-overview/
 
-=======
-[Cantumkan hanya sumber yang benar-benar dibaca/digunakan. Gunakan format konsisten dan tautan/DOI yang tepat; pastikan setiap sitasi memiliki entri.]
-
-{{< include "../../includes/uts-penilaian.md" >}}
->>>>>>> ad92c64e9e4469adaa59ecc064a3fddd8e310761
