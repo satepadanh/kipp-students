@@ -31,7 +31,7 @@ execute:
 
 Budi mengelola usaha dengan pertanyaan pelanggan berulang, pesanan yang kadang tidak tercatat, dan staf terbatas. Ia ragu bahwa penerapan TI/AI diperlukan. Mahasiswa hendak menggali hambatan, menjelaskan pilihan solusi yang proporsional (termasuk pencatatan digital sederhana tanpa memaksakan AI), dan menegosiasikan langkah konkret sambil melindungi operasional dan otonomi customer. Indikator keberhasilan: kebutuhan terungkap, manfaat dan risiko dapat dipertimbangkan, serta ada langkah lanjut dengan waktu, pihak terlibat, dan mekanisme evaluasi; penerimaan produk bukan syarat mutlak.
 
-**Tujuan mahasiswa (U003):** “Tujuan komunikasi saya adalah memahami permasalahan dan kebutuhan usaha Budi, kemudian menawarkan solusi TI atau AI yang sesuai serta mencapai kesepakatan uji coba yang realistis.” Hasil aktual lebih terbatas: pengecekan awal disepakati untuk Jumat 16 Oktober 2026 sesudah operasional, bersama staf pencatatan; uji coba maupun pembelian belum disetujui. 
+**Tujuan mahasiswa (U003):** “Tujuan komunikasi saya adalah memahami permasalahan dan kebutuhan usaha Budi, kemudian menawarkan solusi TI atau AI yang sesuai serta mencapai kesepakatan uji coba yang realistis.” Hasil aktual lebih terbatas: pengecekan awal disepakati untuk Jumat 16 Oktober 2026 sesudah operasional, bersama staf pencatatan; uji coba maupun pembelian belum disetujui.  
 
 ## Profil awal komunikator
 
