@@ -1,0 +1,445 @@
+---
+title: "Laporan UTS KIPP - Sesi 3a"
+subtitle: "Menawarkan solusi TI dan AI - target pertama"
+author: "Azka Fathiyya Haryadi"
+lang: id
+status: "Siap dinilai"
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Azka Fathiyya Haryadi |
+| NIM | 18225041 |
+| Kelas dan tanggal | K1; 14 Oktober 2026 (tanggal sesi yang dikonfirmasi) |
+| Nomor/judul kasus | Sesi 3a; Kasus 3 — Menawarkan Solusi TI dan AI |
+| Nama dan ID target | Fajar (K3-06) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; PENUGASAN.md |
+| Modalitas | Teks; ditranskripsikan dari percakapan teks dalam sesi ini |
+| Kasus nyata/fiktif | Fiktif: tokoh Fajar disimulasikan AI |
+| Kelengkapan transkrip | Semua 22 pesan mahasiswa dicatat utuh; dialog Fajar dan instruksi inti tercakup, beberapa pengantar/pertanyaan asisten dipadatkan; bukan reproduksi huruf demi huruf seluruh tampilan AI |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Fajar adalah customer pengelola usaha yang menghadapi pertanyaan pelanggan berulang, pesanan melalui WhatsApp yang kadang tercecer, dan keterbatasan tenaga. Ia belum yakin AI diperlukan. Tugas komunikator: menggali kebutuhan, menawarkan solusi TI/AI yang sesuai dan tidak memaksakan AI, serta mencapai langkah keputusan atau uji coba yang konkret. Indikator: masalah prioritas teridentifikasi; risiko, biaya, dukungan staf dan proses cadangan dibahas; terdapat kesepakatan langkah berikutnya dengan cakupan/waktu/pihak dan kriteria evaluasi. Mahasiswa menginginkan kesepakatan uji coba realistis (U003), bukan penjualan langsung.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Rencana mendengarkan lebih dulu, menjelaskan alternatif sederhana tanpa paksaan; SWOT eksplisit disampaikan pada refleksi akhir, bukan sebelum simulasi | U003; U017 | Rencana awal dan refleksi diri sesudah tindakan, bukan pengukuran awal SWOT lengkap |
+| Attitude | Mengutamakan kebutuhan customer, mempertimbangkan biaya dan manfaat, tidak memaksakan AI | U003 | Laporan niat awal; lalu teramati dalam simulasi |
+| Knowledge | Memiliki gagasan sistem pencatatan terpusat, integrasi WhatsApp, verifikasi dan fallback; kelayakan aktual belum diperiksa | U003; U005–U012 | Usulan konseptual; bukan bukti implementasi |
+| Skill | Mampu bertanya, menawarkan alternatif dan menyepakati pengecekan; kebutuhan untuk menjelaskan contoh lebih konkret diakui sendiri | U003; U019 | Teramati di komunikasi teks, tidak ada pengukuran kemampuan teknik langsung |
+| Preferensi/MBTI jika dilaporkan | Tidak menyatakan MBTI diri sendiri | — | Tidak tersedia; tidak didiagnosis |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa sebagai komunikator yang menawarkan teknologi kepada pengelola usaha; memilih sapaan profesional dan menghormati pilihan | U004–U012 | Terbatas pada peran dalam simulasi; tak ada inferensi kultur pribadi |
+
+## Dugaan awal profil target dan rencana
+
+Sebelum simulasi atau pengungkapan profil, mahasiswa menduga Fajar cukup terbuka tetapi ragu perlu AI, mungkin terbiasa dengan aplikasi sederhana, paham persoalan bisnis tetapi belum memahami manfaat TI/AI, dan keterampilannya belum diketahui (U003). Rencana: mendengar kendala dulu, menggunakan bahasa mudah, menawarkan alternatif serta mempertimbangkan biaya/kemudahan/manfaat. Ini **dugaan awal**, bukan fakta yang diketahui sebelum dialog.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Pengecekan kebutuhan dan kelayakan menuju keputusan uji coba | A ragu AI; K manfaat sistem belum jelas; S belum diketahui | Tanya prioritas masalah, tawarkan opsi sederhana | Prioritas dan langkah tindak lanjut disepakati |
+| Attention | Fajar meminta manfaat langsung dan waktunya terbatas | A pragmatis | Manfaat praktis singkat | Bersedia menjelaskan kendala |
+| Interest | Diharapkan tertarik pada pengurangan pencatatan ulang | K terkait proses pesanan | Contoh pencatatan, verifikasi | Meminta detail penerapan |
+| Desire | Diharapkan melihat manfaat tanpa kerja tambahan | A/S khawatir adaptasi, kesalahan dan biaya | Fallback, dukungan dan uji terbatas | Bersedia mempertimbangkan uji coba |
+| Action | Belum tentu membeli/menerapkan | S/risiko integrasi dan biaya harus dikaji | Setujui evaluasi teknis, waktu dan indikator | Komitmen pertemuan, bukan klaim implementasi |
+
+# C) Skrip Percakapan
+
+**Transkrip percakapan teks (semua pesan mahasiswa verbatim; sebagian narasi dan instruksi asisten diringkas)**. Penomoran U = pesan pengguna, AI = pesan asisten menurut urutan pesan yang tampak. Bagian format antarmuka (badge, kontrol formulir dan tombol) dinarasikan singkat, sedangkan kata-kata substantif, pesan simulasi dan jawaban mahasiswa dipertahankan. Sesi berisi satu koreksi sapaan; itu dicatat dan tidak disembunyikan. Tidak ada pertemuan nyata dengan Fajar yang diklaim.
+
+### U001 — Aktivasi
+
+Inventarisasi paket kasus 3a saya dan jalankan. Mulai sesi.
+Password ZIP jika diperlukan: uts-1-kipp-2026.
+Ikuti seluruh instruksi dalam PENUGASAN.md, prompt_umum.md, profil_komunikan.md, dan template_laporan.qmd.
+Jalankan seluruh tahapan UTS secara lengkap sesuai paket.
+Ajukan pertanyaan secara bertahap, pertahankan pendalaman refleksi yang bermakna, tetapi hindari pertanyaan repetitif yang substansinya sudah terjawab.
+Jangan mencampurkan konteks dengan kasus lain. Jangan mengarang jawaban, pengalaman, atau transkrip saya.
+Setelah seluruh tahapan selesai, susun laporan hasil_3a_18225041.qmd sesuai template dengan transkrip aktual lengkap. Minta konfirmasi saya sebelum menyelesaikan laporan.
+
+### AI001 — A Identifikasi
+
+Inventarisasi Paket UTS KIPP — Sesi 3a. Paket `kasus_3a_18225041(2).zip` berhasil dibuka. Keempat berkas tersedia, terbaca, dan tidak memerlukan password: `PENUGASAN.md`, `prompt_umum.md`, `profil_komunikan.md`, `template_laporan.qmd`. Mahasiswa Azka Fathiyya Haryadi, NIM 18225041; sesi 3a (urutan ke-4 dari 5), Kasus 3 — Menawarkan Solusi TI dan AI, komunikan Fajar (K3-06), laporan `hasil_3a_18225041.qmd`. Sesi 3a dijalankan terpisah. Pertanyaan 1: Apakah nama dan NIM sesuai? Isi kelas, tanggal dan modalitas sesi. [Asisten menampilkan formulir isian.]
+
+### U002 — A Identifikasi
+
+Konfirmasi identitas: Nama Azka Fathiyya Haryadi dan NIM 18225041 sesuai.
+Kelas: K1.
+Tanggal sesi: 2026-10-14.
+Modalitas: Teks.
+
+### AI002 — B Kasus dan tujuan
+
+Tahap A — Selesai. Identitas sesi 3a telah dikonfirmasi. Tahap B — Memahami Kasus dan Menetapkan Tujuan. Brief kasus: Kamu berperan sebagai komunikator yang menawarkan solusi teknologi kepada seorang customer bernama Fajar. Fajar mengelola usaha yang menghadapi beberapa permasalahan: pertanyaan pelanggan yang berulang, pesanan yang terkadang tercecer, serta keterbatasan tenaga untuk menangani semuanya. Namun, Fajar belum yakin apakah usahanya membutuhkan AI. Tugasmu adalah menggali kebutuhan Fajar, memahami sudut pandangnya, kemudian menawarkan solusi TI atau AI yang sesuai. Sasaran akhirnya adalah keputusan atau kesepakatan uji coba yang konkret, bukan sekadar membuat customer menyetujui penawaran.
+
+Pertanyaan 2 — Tujuan dan dugaan awal: Sebelum berinteraksi langsung dengan Fajar, menurutmu: Apa tujuan komunikasi yang ingin kamu capai, bagaimana dugaan awalmu tentang sikap, pemahaman, dan kemampuan Fajar (ASK), serta bagaimana rencanamu untuk mendekatinya? Jawablah berdasarkan dugaan awalmu saja.
+
+### U003 — B Kasus dan tujuan
+
+Tujuan komunikasi saya adalah memahami permasalahan dan kebutuhan usaha Fajar, kemudian menawarkan solusi TI atau AI yang sesuai dengan kondisi usahanya. Saya juga ingin mencapai kesepakatan untuk melakukan uji coba solusi yang realistis dan bermanfaat.
+Saya menduga Fajar cukup terbuka terhadap teknologi, tetapi masih ragu apakah AI benar-benar diperlukan. Saya belum mengetahui kemampuan Fajar dalam menggunakan teknologi, tetapi kemungkinan ia sudah terbiasa menggunakan aplikasi sederhana untuk menjalankan usahanya. Saya menduga Fajar mengetahui permasalahan operasional usahanya, tetapi belum sepenuhnya memahami bagaimana TI atau AI dapat membantu mengatasinya.
+Untuk pendekatan awal, saya akan mendengarkan keluhan Fajar dan menggali kebutuhan serta kendala yang dialaminya terlebih dahulu. Setelah itu, saya akan menjelaskan beberapa alternatif solusi dengan bahasa yang mudah dipahami, tanpa langsung memaksakan penggunaan AI. Saya juga akan mempertimbangkan biaya, kemudahan penggunaan, dan manfaatnya sebelum mengajak Fajar menyepakati uji coba.
+
+### AI003 — C Simulasi awal
+
+Tahap B selesai. Jawabanmu dicatat sebagai dugaan awal. Tahap C — Simulasi Awal. Mulai sekarang aku memerankan Fajar; kamu pihak yang menawarkan solusi, dan profil internal tidak dibocorkan selama simulasi.
+
+Fajar: "Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu."
+
+Giliranmu sebagai komunikator.
+
+### U004 — C Simulasi awal
+
+"Baik, Pak. Jadi, dari kendala yang Bapak alami, teknologi bisa membantu mengurangi pekerjaan berulang, seperti menjawab pertanyaan pelanggan dan mencatat pesanan agar tidak tercecer.
+Contohnya, kita bisa menggunakan sistem sederhana untuk mencatat pesanan secara otomatis dan menyiapkan jawaban untuk pertanyaan pelanggan yang sering muncul. Jadi, Bapak dan karyawan bisa lebih fokus mengurus usaha.
+Tapi sebelum saya menunjukkan solusi yang lebih spesifik, boleh saya tahu kendala mana yang paling menyita waktu Bapak saat ini? Menjawab pertanyaan pelanggan atau mengelola pesanan?"
+
+### AI004 — C Simulasi awal
+
+Fajar: "Kalau harus pilih satu, mengelola pesanan sih. Kadang pesanan masuk lewat chat, terus ada yang kelewat dicatat, apalagi pas lagi ramai.
+
+Kalau pertanyaan pelanggan masih bisa dijawab pakai pesan yang sudah disiapkan.
+
+Tapi saya mau tahu, kalau pakai sistem yang Bapak tawarkan, apa benar lebih praktis? Jangan sampai malah nambah kerjaan buat karyawan saya."
+
+Giliranmu sebagai komunikator.
+
+### U005 — Koreksi sapaan
+
+Bukan menjawab dialog fajar.
+Aku perempuan
+
+### AI005 — Koreksi sapaan
+
+Ohh, maaf 😭 Kamu perempuan, jadi dalam simulasi Fajar seharusnya memanggilmu **“Bu”**, bukan “Pak”. Aku akan menyesuaikan sapaan Fajar mulai sekarang. Dialog Fajar sebelumnya tetap berlaku, hanya sapaannya yang dikoreksi. Silakan lanjutkan responsmu terhadap pertanyaan Fajar tadi.
+
+### U006 — C Simulasi awal
+
+"Saya paham kekhawatiran Bapak. Justru tujuan sistem ini adalah mengurangi pekerjaan karyawan, bukan menambahnya.
+Misalnya, kita bisa menggunakan sistem pencatatan pesanan sederhana yang mengumpulkan pesanan dalam satu tempat, sehingga karyawan tidak perlu mencatat ulang secara manual. Untuk awal, kita juga tidak harus menggunakan AI kalau sistem sederhana sudah cukup.
+Tapi saya ingin memastikan dulu, Pak. Selama ini karyawan Bapak biasanya mencatat pesanan langsung dari chat ke buku, spreadsheet, atau menggunakan cara lain?"
+
+### AI006 — C Simulasi awal
+
+Fajar: "Sekarang biasanya karyawan saya baca pesanan dari WhatsApp, lalu dicatat di buku. Kalau sedang ramai, kadang dicatat belakangan, nah itu yang bikin beberapa pesanan terlewat.
+
+Saya tertarik kalau memang bisa dikumpulkan di satu tempat, Bu. Tapi kalau harus memasukkan pesanan satu-satu lagi ke sistem, ya sama saja menambah pekerjaan.
+
+Kalau ada pesanan yang salah terbaca atau tidak masuk ke sistem, bagaimana cara kami mengetahuinya?"
+
+Giliranmu sebagai komunikator.
+
+### U007 — C Simulasi awal
+
+"Betul, Pak. Kalau karyawan masih harus memasukkan pesanan satu per satu, manfaatnya memang jadi berkurang.
+Salah satu alternatifnya adalah mengintegrasikan WhatsApp dengan sistem pencatatan pesanan, sehingga pesan yang masuk bisa diproses secara otomatis. Namun, untuk menghindari kesalahan, sistem perlu menyediakan daftar pesanan masuk beserta statusnya, misalnya belum diverifikasi atau sudah dikonfirmasi.
+Jadi karyawan cukup mengecek pesanan yang tercatat dan mengoreksi jika ada kesalahan, bukan mengetik ulang semuanya. Kita juga bisa membandingkan pesan masuk dengan catatan sistem untuk mendeteksi pesanan yang terlewat.
+Tentu, efektivitasnya perlu diuji terlebih dahulu. Menurut Bapak, apakah mekanisme pengecekan seperti ini cocok dengan alur kerja karyawan saat ini?"
+
+### AI007 — C Simulasi awal
+
+Fajar: "Nah, kalau begitu saya lebih tertarik, Bu. Setidaknya karyawan saya tidak perlu mengetik ulang semua pesanan.
+
+Mekanisme pengecekan itu sepertinya cocok, asal tidak terlalu rumit. Karyawan saya sudah terbiasa pakai WhatsApp, tapi belum tentu semuanya cepat belajar sistem baru.
+
+Saya juga tidak mau langsung mengubah cara kerja seluruh usaha. Kalau ternyata sistemnya bermasalah saat pesanan ramai, kami harus tetap bisa melayani pelanggan.
+
+Bisa tidak Ibu tunjukkan contoh penerapannya secara singkat, termasuk apa yang harus dilakukan karyawan kalau sistemnya salah atau tiba-tiba tidak bisa digunakan?"
+
+Giliranmu sebagai komunikator.
+
+### U008 — C Simulasi awal
+
+"Bisa, Pak. Misalnya, saat pelanggan mengirim pesanan lewat WhatsApp, sistem akan mencoba mencatat pesanan tersebut secara otomatis ke daftar pesanan masuk. Karyawan cukup memeriksa detailnya dan mengonfirmasi apakah sudah benar.
+Kalau ada pesanan yang salah terbaca, karyawan bisa memperbaikinya sebelum diproses. Kalau sistem tiba-tiba tidak bisa digunakan, karyawan tetap bisa mencatat pesanan secara manual seperti sekarang, lalu mencocokkannya kembali setelah sistem pulih.
+Untuk awal, saya sarankan kita uji coba dalam skala kecil dulu tanpa langsung mengubah seluruh alur kerja usaha. Jadi, kita bisa melihat apakah sistemnya benar-benar membantu atau justru menambah pekerjaan.
+Menurut Bapak, apakah uji coba terbatas seperti ini lebih memungkinkan?"
+
+### AI008 — C Simulasi awal
+
+Fajar: "Nah, kalau uji cobanya terbatas, saya lebih setuju, Bu. Saya juga senang Ibu tidak langsung memaksakan penggunaan AI.
+
+Tapi saya ingin uji cobanya jelas. Jangan sampai kami sudah mencoba, tetapi tidak tahu apakah hasilnya benar-benar lebih baik daripada cara lama.
+
+Saya mau tahu tiga hal: pesanan mana yang akan dicoba, siapa yang membantu karyawan kalau ada kesulitan, dan bagaimana kita menentukan uji cobanya berhasil atau tidak.
+
+Menurut Ibu, rencana uji coba yang paling sederhana seperti apa?"
+
+Giliranmu sebagai komunikator.
+
+### U009 — C Simulasi awal
+
+"Baik, Pak. Saya usulkan uji coba selama satu minggu, khusus untuk pesanan yang masuk melalui WhatsApp pada satu bagian usaha terlebih dahulu.
+Selama uji coba, saya akan membantu memberikan panduan kepada karyawan dan mendampingi jika ada kendala. Karyawan juga tetap bisa menggunakan pencatatan manual sebagai cadangan.
+Untuk mengukur keberhasilannya, kita bisa membandingkan jumlah pesanan yang terlewat, kesalahan pencatatan, dan waktu yang dibutuhkan karyawan sebelum dan selama uji coba. Kalau hasilnya lebih baik dan karyawan merasa terbantu, kita bisa mempertimbangkan penerapan lebih luas.
+Tentu, kita perlu memastikan dulu kelayakan teknis dan biaya sistemnya. Bagaimana menurut Bapak, apakah rencana uji coba seperti ini sesuai dengan kondisi usaha Bapak?"
+
+### AI009 — C Simulasi awal
+
+Fajar: "Oke, Bu. Satu minggu untuk satu bagian usaha menurut saya masih masuk akal. Saya juga setuju kalau keberhasilannya diukur dari pesanan yang terlewat, kesalahan pencatatan, dan waktu kerja karyawan.
+
+Tapi saya ingin memastikan satu hal. Kalau sistem ini ternyata membutuhkan biaya tambahan atau integrasi WhatsApp yang rumit, saya tidak mau terlanjur mengeluarkan uang sebelum tahu manfaatnya.
+
+Saya bersedia mencoba, asalkan biaya dan kebutuhan teknisnya diperiksa dulu. Saya juga ingin tahu kapan kita bisa mulai dan apa yang perlu saya siapkan.
+
+Menurut Ibu, langkah pertama yang bisa kita sepakati sekarang apa?"
+
+Giliranmu sebagai komunikator.
+
+### U010 — C Simulasi awal
+
+"Baik, Pak. Kalau begitu, langkah pertama yang bisa kita sepakati adalah melakukan pengecekan kebutuhan teknis dan estimasi biaya terlebih dahulu, sebelum memutuskan untuk menggunakan sistemnya.
+Untuk itu, saya perlu memahami alur pemesanan WhatsApp yang sekarang digunakan, jumlah pesanan harian, dan perangkat yang tersedia. Setelah itu, saya bisa menyiapkan gambaran sistem serta perkiraan biaya dan mendiskusikannya dengan Bapak.
+Kalau ternyata biayanya terlalu tinggi atau integrasinya terlalu rumit, kita bisa mempertimbangkan alternatif yang lebih sederhana.
+Jadi untuk sekarang, apakah Bapak bersedia menjadwalkan pengecekan awal tersebut? Setelah hasilnya jelas, baru kita tentukan kapan uji coba bisa dimulai."
+
+### AI010 — C Simulasi awal
+
+Fajar: "Baik, Bu. Saya setuju kita periksa kebutuhan teknis dan biayanya dulu. Saya lebih nyaman begitu daripada langsung membeli sistem yang belum tentu cocok.
+
+Saya bisa menyiapkan gambaran alur pesanan, perkiraan jumlah pesanan harian, dan informasi perangkat yang kami gunakan. Tapi saya tidak ingin menghabiskan waktu terlalu lama untuk pengecekan awal.
+
+Kalau memungkinkan, saya bisa menyediakan waktu sekitar 30 menit hari Senin depan. Saya juga akan mengajak satu karyawan yang biasa menangani pesanan WhatsApp.
+
+Apakah dalam pertemuan itu Ibu bisa menunjukkan contoh alur kerja sistem dan checklist sederhana yang perlu kami periksa, supaya setelahnya kami bisa menentukan apakah uji coba satu minggu layak dilakukan?"
+
+Giliranmu sebagai komunikator.
+
+### U011 — C Simulasi awal
+
+"Tentu bisa, Pak. Senin depan selama 30 menit menurut saya cukup untuk pengecekan awal.
+Nanti saya akan menunjukkan contoh alur kerja sistem, mulai dari pesanan masuk melalui WhatsApp, pencatatan otomatis, sampai pengecekan oleh karyawan. Kita juga akan menggunakan checklist sederhana untuk memeriksa kebutuhan perangkat, kemungkinan integrasi WhatsApp, kemudahan penggunaan, dan estimasi biaya.
+Dengan begitu, setelah pertemuan kita bisa menilai apakah uji coba satu minggu memungkinkan dilakukan tanpa menambah beban kerja atau biaya yang tidak diperlukan.
+Kalau begitu, kita sepakati pertemuan hari Senin depan, ya, Pak."
+
+### AI011 — C Simulasi awal
+
+Fajar: "Baik, Bu. Kita sepakati Senin depan, 19 Oktober, selama 30 menit. Saya akan menyiapkan informasi yang Ibu butuhkan dan mengajak satu karyawan yang biasa menangani WhatsApp.
+
+Saya suka pendekatan ini karena kita bisa melihat dulu manfaat dan risikonya tanpa langsung mengeluarkan biaya atau mengubah cara kerja usaha.
+
+Kalau hasil pengecekannya memungkinkan, baru kita putuskan uji coba satu minggu. Saya harap contoh sistem dan checklist-nya nanti benar-benar sederhana, ya, Bu.
+
+Terima kasih. Sampai bertemu hari Senin."
+
+Tahap D — Evaluasi Sementara. Simulasi awal selesai. Pertanyaan 1 — Evaluasi perubahan ASK: Berdasarkan respons Fajar sepanjang percakapan, bagaimana menurutmu perubahan Attitude, Skill, dan Knowledge (ASK) Fajar dari awal hingga akhir simulasi? Jelaskan berdasarkan bukti respons Fajar yang kamu amati. Apakah ada aspek yang menurutmu masih menjadi hambatan?
+
+### U012 — D Evaluasi sementara
+
+Dari aspek **Attitude**, Fajar yang awalnya terburu-buru dan ragu terhadap penggunaan AI mulai menunjukkan ketertarikan setelah memahami manfaat solusi yang ditawarkan, hingga bersedia melakukan pengecekan awal. Dari aspek **Skill**, Fajar dan karyawannya sudah terbiasa menggunakan WhatsApp, tetapi kemampuan mereka menggunakan sistem baru masih belum diketahui dan perlu diuji. Dari aspek **Knowledge**, Fajar mulai memahami bagaimana sistem pencatatan pesanan dapat membantu usahanya, termasuk mekanisme verifikasi, penanganan kesalahan, dan pengukuran keberhasilan uji coba. Namun, masih terdapat hambatan berupa kekhawatiran mengenai biaya, kerumitan integrasi, dan kemampuan karyawan beradaptasi. Secara keseluruhan, komunikasi berhasil membangun ketertarikan dan kesepakatan pengecekan awal, tetapi belum mencapai keputusan penerapan sistem.
+
+### AI012 — D Evaluasi dan pengungkapan profil
+
+Tahap D — Evaluasi Sementara Selesai. Evaluasi ASK awalmu sudah dicatat. Profil awal Fajar: Attitude pragmatis, ingin hasil cepat dan tidak menyukai penjelasan panjang; Knowledge berpengalaman praktis tetapi belum memahami sepenuhnya risiko kesalahan otomatis; Skill cepat mencoba hal baru tetapi kurang konsisten dalam dokumentasi; preferensi langsung, demonstrasi singkat dan hasil yang terlihat; hambatan beban kerja tambahan, checklist, demonstrasi dan prosedur cadangan. Preferensi MBTI fiktif ESTP hanya panduan pemeranan, bukan diagnosis.
+
+Tahap E — Uji Ulang. Situasi setelah kesepakatan awal: Fajar menghubungi karena muncul kekhawatiran baru dari karyawan.
+
+Fajar: "Bu, saya sudah bicara dengan karyawan yang biasanya menangani pesanan WhatsApp.
+
+Dia sebenarnya mau mencoba, tetapi khawatir kalau harus mengecek dua tempat sekaligus, WhatsApp dan sistem baru. Katanya kalau sedang ramai, dia bisa bingung menentukan pesanan mana yang sudah diproses.
+
+Saya masih setuju dengan pertemuan kita hari Senin. Tapi saya ingin memastikan cara kerjanya tidak justru membuat karyawan tambah kewalahan.
+
+Kalau menghadapi kondisi seperti ini, bagaimana Ibu akan menyesuaikan rencana uji cobanya?"
+
+Giliranmu sebagai komunikator.
+
+### U013 — E Uji ulang
+
+"Saya paham, Pak. Kalau karyawan harus terus-menerus mengecek dua tempat, sistemnya justru bisa menambah beban kerja.
+Menurut saya, kita perlu menyesuaikan uji cobanya. Untuk awal, sistem bisa digunakan sebagai alat bantu pencatatan, sementara WhatsApp tetap menjadi sumber utama pesanan. Kita juga bisa membuat satu daftar status pesanan yang jelas, misalnya belum diproses, sedang diproses, dan selesai, supaya karyawan tidak bingung.
+Saat pertemuan Senin nanti, kita bisa mencoba simulasi beberapa pesanan bersama karyawan Bapak untuk melihat apakah alurnya cukup sederhana. Kalau ternyata masih merepotkan, kita perbaiki dulu sebelum menjalankan uji coba satu minggu.
+Bagaimana menurut Bapak, apakah pendekatan ini lebih nyaman untuk karyawan?"
+
+### AI013 — E Uji ulang
+
+Fajar: "Kalau WhatsApp tetap jadi sumber utama dan sistemnya hanya membantu pencatatan, saya rasa karyawan saya lebih mudah menerimanya, Bu.
+
+Saya juga setuju kalau kita mencoba beberapa contoh pesanan dulu sebelum uji coba satu minggu.
+
+Tapi saya masih sedikit bingung. Kalau karyawan sudah memproses pesanan lewat WhatsApp, bagaimana memastikan status di daftar pesanan juga diperbarui? Saya khawatir nanti ada pesanan yang diproses dua kali karena statusnya belum berubah.
+
+Bisa tidak kita buat aturan sederhana supaya karyawan tahu kapan harus memperbarui status dan siapa yang bertanggung jawab?"
+
+Giliranmu sebagai komunikator.
+
+### U014 — E Uji ulang
+
+"Bisa, Pak. Menurut saya, kita bisa menetapkan satu karyawan yang bertanggung jawab memperbarui status pesanan. Jadi, setiap kali pesanan mulai dikerjakan, statusnya langsung diubah menjadi "Sedang Diproses", lalu menjadi "Selesai" setelah pesanan selesai ditangani.
+Sebelum memproses pesanan, karyawan juga perlu mengecek statusnya terlebih dahulu untuk menghindari pesanan dikerjakan dua kali.
+Nanti saat pertemuan Senin, kita bisa simulasikan alur ini bersama karyawan Bapak. Kalau ternyata masih terlalu rumit, kita sederhanakan lagi sebelum uji coba dimulai. Bagaimana menurut Bapak?"
+
+### AI014 — E Uji ulang
+
+Fajar: "Oke, Bu. Kalau ada satu orang yang bertanggung jawab memperbarui status, saya rasa lebih jelas. Aturan untuk mengecek status sebelum memproses pesanan juga masuk akal.
+
+Cuma saya kepikiran satu hal lagi. Kalau karyawan yang bertanggung jawab itu sedang istirahat atau tidak masuk kerja, siapa yang memperbarui statusnya? Jangan sampai semua pesanan jadi tertunda karena bergantung pada satu orang.
+
+Kalau bisa, saya ingin ada aturan pengganti yang sederhana juga. Jadi sistemnya tetap berjalan meskipun orang yang biasanya bertugas sedang tidak ada.
+
+Menurut Ibu, bagaimana cara mengaturnya tanpa membuat pembagian tugas jadi rumit?"
+
+Giliranmu sebagai komunikator.
+
+### U015 — E Uji ulang
+
+"Betul, Pak. Supaya tidak bergantung pada satu orang, kita bisa menunjuk satu petugas utama dan satu petugas cadangan yang sudah memahami cara memperbarui status pesanan.
+Kalau petugas utama sedang istirahat atau tidak masuk, petugas cadangan bisa mengambil alih. Cukup pastikan pergantian tugasnya dikomunikasikan dengan jelas, supaya tidak ada dua orang yang menangani pesanan yang sama.
+Nanti saat simulasi hari Senin, kita juga bisa mencoba skenario pergantian petugas untuk memastikan prosedurnya mudah dijalankan. Kalau masih ada kendala, kita sesuaikan sebelum uji coba dimulai.
+Bagaimana menurut Bapak, apakah pembagian seperti ini cukup sederhana untuk diterapkan?"
+
+### AI015 — E Uji ulang dan F refleksi
+
+Fajar: "Menurut saya cukup sederhana, Bu. Kalau ada petugas utama dan cadangan, pekerjaan tidak harus berhenti ketika salah satunya tidak ada.
+
+Saya juga setuju kita mencoba pergantian petugas saat simulasi hari Senin. Jadi karyawan saya bisa langsung merasakan apakah alurnya mudah dijalankan.
+
+Berarti kita tetap bertemu Senin, 19 Oktober, selama 30 menit, ya. Saya akan mengajak karyawan yang menangani WhatsApp, dan kita bisa menentukan siapa petugas utama serta cadangannya.
+
+Kalau hasil simulasinya ternyata masih merepotkan, saya berharap kita bisa membicarakan perbaikannya tanpa harus memaksakan uji coba.
+
+Terima kasih, Bu. Saya merasa kekhawatiran kami benar-benar dipertimbangkan."
+
+Tahap E selesai. Tahap F — Hasil dan Refleksi. Pertanyaan 1: Dibandingkan dengan simulasi awal, bagaimana perubahan Attitude, Skill, dan Knowledge (ASK) Fajar setelah uji ulang? Apakah ada hambatan yang berhasil dikurangi, dan apakah masih ada aspek yang belum dapat dipastikan hanya dari percakapan ini?
+
+### U016 — F Refleksi ASK
+
+Dari aspek **Attitude**, Fajar menjadi lebih terbuka terhadap solusi yang ditawarkan karena kekhawatirannya mengenai beban kerja karyawan didengarkan dan dipertimbangkan. Dari aspek **Skill**, Fajar mulai memahami perlunya pembagian tugas antara petugas utama dan cadangan, tetapi kemampuan karyawan dalam menjalankan sistem masih perlu diuji secara langsung. Dari aspek **Knowledge**, Fajar semakin memahami alur pencatatan, pembaruan status pesanan, serta prosedur pergantian petugas untuk mencegah kesalahan. Hambatan terkait kekhawatiran akan pekerjaan tambahan dan ketergantungan pada satu karyawan mulai berkurang. Namun, kemudahan penggunaan, kelayakan teknis, biaya, dan efektivitas sistem belum dapat dipastikan karena simulasi langsung dan uji coba belum dilaksanakan.
+
+### AI016 — F Refleksi SWOT
+
+Tahap F — Refleksi Akhir. Evaluasi ASK setelah uji ulang dicatat. Pertanyaan 2 — Analisis SWOT: berdasarkan keseluruhan simulasi awal dan uji ulang, lakukan analisis SWOT terhadap kemampuan komunikasimu sendiri. Strengths: kekuatan utama komunikasi; Weaknesses: hal yang perlu diperbaiki; Opportunities: peluang peningkatan; Threats: faktor eksternal yang menghambat. Gunakan pengalaman yang benar-benar muncul selama simulasi.
+
+### U017 — F Refleksi SWOT
+
+**Strengths:** Saya mampu mendengarkan kebutuhan dan kekhawatiran Fajar, menyampaikan manfaat teknologi secara sederhana, serta menawarkan solusi tanpa memaksakan penggunaan AI. **Weaknesses:** Saya masih perlu meningkatkan kemampuan menjelaskan aspek teknis secara lebih konkret agar solusi yang ditawarkan tidak menimbulkan kebingungan. **Opportunities:** Simulasi ini menjadi kesempatan untuk mengembangkan kemampuan komunikasi dengan customer, terutama dalam menyesuaikan penjelasan dengan kebutuhan mereka dan membangun kepercayaan melalui demonstrasi serta uji coba. **Threats:** Keterbatasan waktu Fajar, biaya dan kerumitan integrasi sistem, serta kesulitan adaptasi karyawan dapat menghambat tindak lanjut kesepakatan meskipun komunikasi awal berjalan baik.
+
+### AI017 — F Refleksi tujuan
+
+Analisis SWOT dicatat. Pertanyaan 3 — Evaluasi pencapaian tujuan: Di awal sesi, kamu menetapkan tujuan untuk memahami kebutuhan Fajar, menawarkan solusi TI/AI yang sesuai, dan mencapai kesepakatan uji coba yang realistis. Menurutmu, sejauh mana tujuan komunikasi tersebut berhasil dicapai? Jelaskan hasil konkret, tujuan yang belum sepenuhnya tercapai, serta alasan penilaianmu.
+
+### U018 — F Refleksi tujuan
+
+Menurut saya, tujuan komunikasi sudah cukup berhasil dicapai. Saya berhasil memahami bahwa masalah utama Fajar adalah pencatatan pesanan yang sering terlewat, serta kekhawatirannya mengenai biaya, kerumitan sistem, dan beban kerja karyawan. Saya juga berhasil menawarkan solusi yang sesuai tanpa memaksakan penggunaan AI. Hasil konkretnya adalah kesepakatan untuk melakukan pengecekan teknis dan biaya pada 19 Oktober 2026, termasuk simulasi alur kerja bersama karyawan. Namun, tujuan untuk mencapai kesepakatan uji coba satu minggu belum sepenuhnya tercapai karena masih bergantung pada hasil pengecekan tersebut. Saya menilai komunikasi ini berhasil dalam membangun kepercayaan dan menghasilkan langkah tindak lanjut yang jelas, meskipun efektivitas sistem belum terbukti.
+
+### AI018 — F Refleksi efektivitas pesan
+
+Evaluasi pencapaian tujuan dicatat. Pertanyaan 4 — Efektivitas Pesan: bagian mana dari cara komunikasimu yang paling efektif dalam membuat Fajar semakin percaya dan bersedia melanjutkan pembicaraan? Jika mendapat kesempatan mengulang percakapan tersebut, adakah penjelasan atau pendekatan yang ingin diperbaiki agar komunikasi lebih efektif?
+
+### U019 — F Refleksi efektivitas pesan
+
+Menurut saya, pendekatan yang paling efektif adalah menyampaikan manfaat teknologi secara singkat dan konkret, serta mendengarkan kekhawatiran Fajar tanpa memaksakan penggunaan AI. Hal ini terlihat ketika Fajar mulai tertarik setelah saya menawarkan solusi pencatatan pesanan yang sederhana dan uji coba terbatas. Saya juga berusaha membangun kepercayaan dengan menjelaskan prosedur cadangan dan mempertimbangkan kemampuan karyawannya. Jika mengulang percakapan, saya ingin memperbaiki cara menjelaskan alur kerja sistem dengan memberikan contoh yang lebih konkret sejak awal, sehingga Fajar dapat lebih cepat memahami manfaat dan risiko penggunaannya tanpa membutuhkan terlalu banyak penjelasan tambahan.
+
+### AI019 — F Lesson learned
+
+Evaluasi efektivitas pesan dicatat. Pertanyaan 5 — Pembelajaran Pribadi (Lesson Learned): Apa pembelajaran paling penting yang kamu peroleh mengenai cara menawarkan solusi TI atau AI kepada customer? Apa satu komitmen konkret yang akan kamu terapkan dalam komunikasi serupa di masa depan?
+
+### U020 — F Lesson learned
+
+Pembelajaran terpenting yang saya peroleh adalah bahwa menawarkan solusi TI atau AI tidak harus selalu berfokus pada teknologi yang paling canggih, tetapi pada solusi yang benar-benar sesuai dengan kebutuhan dan kemampuan customer. Saya menyadari pentingnya memahami permasalahan terlebih dahulu, mendengarkan kekhawatiran customer, serta mempertimbangkan biaya, risiko, dan kemudahan penggunaan sebelum menawarkan solusi. Komitmen saya ke depannya adalah membiasakan diri memberikan contoh penerapan yang konkret dan mudah dipahami, serta mengajak customer mengevaluasi kelayakan solusi melalui uji coba terbatas sebelum memutuskan penerapan secara lebih luas.
+
+### AI020 — F Refleksi relasional
+
+Lesson learned dan komitmen dicatat. Pertanyaan 6 — Kepercayaan dan Kepedulian: Menurutmu, pesan atau tindakan komunikasi apa yang paling membantu atau justru menghambat Fajar merasa dipercaya, dipahami, dan dipedulikan? Apa bukti respons Fajar yang mendukung penilaianmu?
+
+### U021 — F Refleksi relasional
+
+Menurut saya, hal yang paling membantu membangun kepercayaan Fajar adalah ketika saya mendengarkan kekhawatirannya mengenai biaya, kerumitan sistem, dan beban kerja karyawan tanpa langsung memaksakan solusi AI. Saya juga menawarkan pengecekan awal, uji coba terbatas, serta prosedur cadangan untuk mengurangi risiko. Hal ini terlihat dari respons Fajar yang menyatakan bahwa ia menyukai pendekatan tersebut karena tidak harus langsung mengeluarkan biaya atau mengubah cara kerja usahanya. Saat uji ulang, Fajar juga mengatakan bahwa ia merasa kekhawatiran dirinya dan karyawannya benar-benar dipertimbangkan. Tidak ada respons yang secara jelas menghambat kepercayaan Fajar, tetapi saya masih perlu memperbaiki cara menjelaskan solusi agar lebih konkret dan efisien.
+
+### AI021 — G Konfirmasi
+
+Tahap F selesai. Tahap G — Konfirmasi Akhir. Ringkasan: Nama Azka Fathiyya Haryadi, 18225041, K1; 14 Oktober 2026, teks; Kasus 3a, Fajar (K3-06). Tujuan memahami kebutuhan, menawarkan solusi dan mengupayakan uji coba. Hasil simulasi awal: kesepakatan pengecekan teknis dan biaya pada 19 Oktober 2026 selama 30 menit. Hasil uji ulang: mekanisme status pesanan, petugas utama/cadangan dan simulasi pergantian petugas. Perubahan ASK: sikap lebih terbuka, pemahaman meningkat, keterampilan operasional belum diuji. Kekuatan mendengarkan, peduli, manfaat jelas, tidak memaksakan AI; perbaikan contoh lebih konkret; pembelajaran solusi sesuai kebutuhan dan kapasitas. Pengecekan awal disepakati; uji coba satu minggu belum disetujui final.
+
+Pertanyaan: Apakah seluruh ringkasan hasil sesi 3a sudah sesuai dengan pengalaman dan jawabanmu selama simulasi? [Pilihan formulir: setuju untuk buat laporan atau ajukan koreksi.]
+
+### U022 — G Konfirmasi
+
+Saya mengonfirmasi ringkasan akhir Kasus 3a sudah sesuai. Silakan buat laporan hasil_3a_18225041.qmd sesuai template, dengan transkrip aktual lengkap.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+**Hasil tujuan: tercapai sebagian.** Fajar secara simulatif menyetujui pertemuan pengecekan teknis dan biaya **Senin, 19 Oktober 2026, 30 menit**, dengan satu karyawan WhatsApp, contoh alur kerja, checklist, dan simulasi status serta pergantian petugas (AI011, AI015). **Belum** ada implementasi, pembelian, pengecekan sungguhan, atau persetujuan final untuk uji coba satu minggu. Sebelum melanjutkan, kelayakan, biaya dan beban kerja harus diperiksa (U010–U012; U018).
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT komunikator | Niat mendengar, menggali kebutuhan dan tidak memaksakan AI | Kuat mendengarkan/menawarkan opsi; lemah pada contoh teknis lebih konkret; peluang latihan demo; ancaman waktu/biaya/adaptasi | U003, U017 | SWOT adalah penilaian diri mahasiswa sesudah interaksi |
+| Attitude Fajar | Terburu-buru, ingin hasil langsung, ragu | Tertarik, menerima pengecekan awal tanpa paksaan | AI003, AI008, AI011, AI015; U016 | Perubahan tokoh fiktif dalam teks, bukan sikap customer nyata |
+| Knowledge Fajar | Kegunaan dan risiko sistem belum jelas | Memahami verifikasi, fallback, status pesanan, pembagian petugas secara konseptual | AI006, AI008, AI014–AI015; U016 | Diperkirakan dari respons dialog |
+| Skill Fajar/karyawan | Terbiasa WhatsApp, kecakapan sistem baru belum jelas | Menyepakati simulasi dan peran petugas; belum ada demonstrasi penggunaan riil | AI006, AI014–AI015; U016 | **Tidak ada bukti peningkatan skill praktik karyawan** |
+| Skill komunikator | Rencana menggali dan menjelaskan | Mampu menyesuaikan komunikasi saat keberatan baru muncul | U013–U016 | Yang didemonstrasikan ialah keterampilan komunikasi teks, bukan implementasi sistem |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons Fajar | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| AI003 → U004 → AI004 | Attention rendah ke sedang; terburu-buru | “kendala mana yang paling menyita waktu” | Masalah pesanan lebih berat daripada pertanyaan pelanggan | Knowledge kebutuhan meningkat bagi komunikator | Fokus pesanan |
+| AI006 → U007 → AI007 | Interest meningkat; takut kerja ganda | “karyawan cukup mengecek pesanan” dan daftar verifikasi | “saya lebih tertarik” tetapi minta demo/fallback | A meningkat, K risiko masih perlu dukungan | Beri prosedur salah baca dan sistem gagal |
+| AI008 → U009 → AI009 | Desire bersyarat | Usul seminggu, satu bagian, indikator keberhasilan | “masih masuk akal” tetapi minta biaya/teknis | Minat meningkat tanpa menghapus ancaman biaya | Pengecekan awal sebelum uji |
+| AI010 → U010 → AI011 | Action terbatas | Checklist dan demo 30 menit | Setuju Senin 19 Oktober, membawa staf | Komitmen awal, bukan implementasi | Mempertahankan keputusan kondisional |
+| AI012 → U013 → AI013 | Uji ulang, beban dua kanal | WhatsApp tetap sumber utama; status sederhana | Menyukai usul namun khawatir pembaruan status | K lebih konkret, S operasional masih dipertanyakan | Aturan pengecekan status |
+| AI014 → U015 → AI015 | Risiko ketergantungan satu staf | Petugas utama/cadangan, serah terima, simulasi | “cukup sederhana”, “kekhawatiran kami benar-benar dipertimbangkan” | K dan rasa dipahami meningkat; S belum diuji | Kesepakatan tetap dan boleh revisi |
+
+**Perbandingan dugaan dan profil internal:** Dugaan awal mahasiswa bahwa Fajar pragmatis dan mungkin terbuka terhadap TI (U003) sebagian didukung. Profil internal K3-06 mencatat A pragmatis/tak sabar dengan uraian panjang; K memiliki pengalaman praktis tetapi belum memahami risiko otomatis; S cepat mencoba tetapi dokumentasi lemah; menghargai demo, checklist dan fallback, serta menggunakan ESTP **fiktif hanya sebagai petunjuk pemeranan**, bukan diagnosis. Perbedaan penting: mahasiswa awalnya tidak mengetahui skill target, dan percakapan pun tidak membuktikan kemampuan nyata.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan kepedulian | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak dan batas inferensi |
+|---|---|---|---|---|
+| U006 → AI006 | “Saya paham kekhawatiran Bapak” dan alternatif non-AI | Fajar menjelaskan proses tulis buku dan kekhawatiran salah baca | Dipahami: dari belum pasti ke sedang; keterbukaan meningkat | Hanya respons tokoh simulasi |
+| U008 → AI008 | Mengakui salah baca dan menyediakan catatan manual saat gangguan | Fajar menyukai uji terbatas dan meminta ukuran keberhasilan | Kepercayaan: indikasi sedang, bersyarat | Risiko dan biaya belum hilang |
+| U010 → AI011 | Biaya dicek sebelum membeli, proses disederhanakan | “Saya suka pendekatan ini” | Rasa aman/percaya: indikasi lebih tinggi dibanding pembuka | Tidak sama dengan persetujuan pembelian |
+| U013–U015 → AI015 | Beban dua tempat diakui; petugas cadangan ditambahkan | “kekhawatiran kami benar-benar dipertimbangkan” | Merasa dipedulikan: indikasi tinggi dalam konteks dialog | Tidak bisa mengukur motif batin, kedekatan, atau dampak jangka panjang |
+
+Kepedulian dalam hubungan profesional diekspresikan melalui penghargaan atas waktu customer, transparansi risiko dan pilihan untuk menunda, penawaran bantuan praktis, serta kesediaan merevisi rencana. Perhatian dan rasa percaya di sini adalah **kategori interpretatif dari ujaran fiktif**, bukan skor psikometri. Mahasiswa secara eksplisit merefleksikan perilaku ini pada U021.
+
+## Uji ulang dan pembelajaran
+
+Situasi baru: karyawan takut mengecek WhatsApp dan sistem dua kali (AI012). Mahasiswa tidak mengulang promosi awal, melainkan menetapkan WhatsApp sumber utama, sistem sebagai alat bantu, dan daftar status (U013). Ketika Fajar mengangkat risiko status tidak sinkron dan ketergantungan pada satu orang (AI013–AI014), mahasiswa menawarkan petugas utama, cadangan, serah terima dan simulasi pergantian (U015). Fajar menerima pengaturan itu dalam dialog (AI015). Ini **demonstrasi adaptasi komunikator secara tertulis**, belum demonstrasi sistem nyata maupun keterampilan karyawan.
+
+## Penilaian enam dimensi
+
+**Skor berikut adalah usulan AI untuk moderasi dosen**, berdasar proses yang teramati dalam simulasi ini; bukan nilai resmi, dan bukan akumulasi lima sesi.
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---:|---|---|
+| Tujuan dan konteks | 4 | U003 “memahami permasalahan dan kebutuhan”; U018 “belum sepenuhnya tercapai” | Tujuan, batas dan indikator diidentifikasi; evaluasi tidak melebih-lebihkan hasil |
+| Persepsi dan validasi profil/status | 3 | U006 “buku, spreadsheet, atau ... cara lain?”; U016 skill “masih perlu diuji” | Menguji proses aktual dan membedakan asumsi dari bukti, tetapi informasi kapasitas nyata staf belum diperoleh |
+| Pemilihan dan urutan repertoar | 4 | U007 verifikasi; U009 satu minggu; U010 cek biaya dahulu | Tanggapan progresif dari penggalian, risiko dan alternatif ke langkah kecil yang relevan |
+| Eksekusi jelas, peduli dan konsisten | 3 | U008 prosedur manual; U015 petugas cadangan; U019 ingin “contoh ... lebih konkret” | Peka pada kebutuhan dan konsisten, tetapi contoh operasional awal masih abstrak |
+| Evaluasi dan adaptasi | 4 | U013 status tiga tahap; U015 peran cadangan; U016 batas pengujian | Menyesuaikan rencana saat kendala baru muncul, tanpa memaksa persetujuan |
+| Refleksi dan lesson learned | 4 | U017 SWOT; U018 pencapaian parsial; U020 komitmen | Refleksi kritis, berbukti dan berujung perbaikan spesifik |
+
+**Nilai usulan sesi 3a: (22 / 24) × 100 = 91,67.** Memerlukan moderasi dosen. Skor tidak menyatakan keberhasilan sistem atau hasil belajar jangka panjang; tidak dihitung sebagai nilai total lima sesi.
+
+## Refleksi dan lesson learned mahasiswa
+
+**Evaluasi pencapaian tujuan (U018):** mahasiswa menilai tujuan komunikasi cukup berhasil: persoalan pencatatan pesanan yang terlewat dikenali, risiko biaya/kerumitan/beban dibahas, dan pemeriksaan teknis disepakati. Uji coba satu minggu belum final.
+
+**SWOT diri (U017):** Strengths—mendengarkan dan menjelaskan sederhana tanpa memaksa AI; Weaknesses—perlu penjelasan teknis lebih konkret; Opportunities—latihan komunikasi customer melalui demo/uji coba; Threats—keterbatasan waktu, biaya, integrasi dan adaptasi karyawan.
+
+**Pesan efektif dan yang ingin diperbaiki (U019):** mendengarkan tanpa memaksa AI, menjelaskan manfaat dan fallback efektif; mahasiswa ingin memperlihatkan contoh alur lebih konkret sejak awal.
+
+**Lesson learned dan komitmen (U020):** teknologi tercanggih bukan tujuan; kesesuaian kebutuhan, risiko, biaya dan kemudahan lebih penting. Ke depan mahasiswa berkomitmen memberi contoh konkret dan mengajak customer mengevaluasi kelayakan melalui uji terbatas sebelum penerapan luas.
+
+**Refleksi relasional (U021):** kepercayaan muncul ketika biaya, kerumitan dan kekhawatiran staf dihormati; bukti respons Fajar menyukai pendekatan dan merasa dipertimbangkan. Tidak teramati hambatan kepercayaan eksplisit, tetapi masih ada kebutuhan efisiensi penjelasan.
+
+Tidak ada laporan preferensi MBTI, kultur pribadi atau pengalaman aktual di luar simulasi yang memadai untuk dianalisis lebih jauh. Profil ESTP hanya parameter tokoh fiktif.
+
+## Tindak lanjut dan batas bukti
+
+**Kesepakatan dalam simulasi:** pertemuan **Senin, 19 Oktober 2026, 30 menit** bersama Fajar dan satu staf pemegang WhatsApp; Fajar menyiapkan alur pesanan, kisaran jumlah pesanan harian dan perangkat; mahasiswa menyiapkan contoh alur dan checklist perangkat, opsi integrasi, kemudahan, serta estimasi biaya (AI010–AI011). Tambahkan simulasi status belum diproses/sedang diproses/selesai dan pergantian petugas utama–cadangan (U013–U015). Indikator apabila kelak ada uji coba: jumlah pesanan terlewat, kesalahan pencatatan, waktu karyawan, dan kenyamanan kerja (U009). Keputusan uji coba seminggu hanya diambil bila biaya/teknis dan demonstrasi awal layak.
+
+**Batas:** tidak ada pelaksanaan pertemuan, sistem, biaya aktual, hasil indikator atau data pelanggan riil yang terverifikasi. Respons customer adalah hasil pemeranan chatbot dalam latihan teks; intonasi, bahasa tubuh dan dampak dunia nyata tidak dinilai. Konfirmasi U022 menyetujui ringkasan pelaporan, bukan mengonfirmasi tindakan luar sesi.
